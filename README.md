@@ -16,3 +16,9 @@ A data analysis project using a hotel booking dataset which focuses on cancellat
 ## How To Run Data Cleaning:
 ### go to file named "data_cleaning.ipynb"
 ### run the notebook (make sure you have the required libraries installed)
+
+# SOURCES
+### - https://blog.devgenius.io/data-cleansing-in-python-common-ways-to-clean-your-data-3459a256dd85
+### - https://blog.devgenius.io/data-profiling-in-python-common-ways-to-explore-your-data-part-2-396384522e91
+### - https://www.geeksforgeeks.org/pandas/handling-outliers-with-pandas/
+### - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.clip.html
